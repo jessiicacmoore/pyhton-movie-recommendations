@@ -28,7 +28,7 @@ def reccomendation():
 
 
 # ----- Make the reccomendation to the user -----
-def make_reccomendations(movie_preferences):
+def make_reccomendations():
   print() 
   print("-------------------------------")
   print()
@@ -44,6 +44,6 @@ def make_reccomendations(movie_preferences):
   print("-------------------------------")
   print()
 
-  
-movie_preferences = [likes_documentaries, likes_dramas, likes_comedies]
-make_reccomendations(movie_preferences)
+
+
+make_reccomendations()
