@@ -47,5 +47,5 @@ def make_recommendations():
   print()
 
 
-
+# ----- Call the function to print recommendation to the user -----
 make_recommendations()
